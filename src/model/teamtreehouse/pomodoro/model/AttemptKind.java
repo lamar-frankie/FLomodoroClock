@@ -1,4 +1,4 @@
-package com.teamtreehouse.pomodoro.model;
+package model.teamtreehouse.pomodoro.model;
 
 /**
  * Created by fl76at on 10/14/16.

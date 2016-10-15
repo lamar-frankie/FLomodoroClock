@@ -1,4 +1,4 @@
-package com.teamtreehouse.pomodoro;
+package model.teamtreehouse.pomodoro;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

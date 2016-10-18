@@ -8,7 +8,7 @@ public class Attempt {
     private int mRemainingSeconds;
     private AttemptKind mKind;
 
-    public Attempt(String message, AttemptKind kind) {
+    public Attempt(AttemptKind message, String kind) {
         mMessage = message;
         mKind = kind;
         mRemainingSeconds = kind.getTotalSeconds();

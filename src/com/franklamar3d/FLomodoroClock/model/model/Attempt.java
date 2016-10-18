@@ -1,4 +1,4 @@
-package model.teamtreehouse.pomodoro.model;
+package com.franklamar3d.FLomodoroClock.model.model;
 
 /**
  * Created by fl76at on 10/14/16.

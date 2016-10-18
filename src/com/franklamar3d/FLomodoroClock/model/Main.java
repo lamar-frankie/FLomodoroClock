@@ -1,4 +1,4 @@
-package model.teamtreehouse.pomodoro;
+package com.franklamar3d.FLomodoroClock.model;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
